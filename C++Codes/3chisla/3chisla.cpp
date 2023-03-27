@@ -50,7 +50,7 @@ cout<<endl;
 }
 else
 cout<<"Rezultat:"<<endl;
-  /////
+
  if (a>b&&b>c)
  {
      if(b>c)
@@ -150,7 +150,7 @@ else
  cout<<b<<c<<a; 
 }
 }
-///1111
+
 else
 
   if (b>c&&c>a)
@@ -178,7 +178,7 @@ else
 }
 }
 else
-///2222
+
   if (c>a&&a>b)
  {
  
